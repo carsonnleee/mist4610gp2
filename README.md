@@ -71,7 +71,16 @@ This data enables:
 - Year + Quarter  
 
 ---
+## Data Preparation
 
+To answer these questions, we performed the following data manipulations:
+- Combined data across all four quarters for 2022, 2023, and 2024  
+- Grouped and aggregated total reimbursement by NDC and state  
+- Created calculated fields for spending trends and growth rates  
+- Filtered for top N drugs per state and by total national spend  
+
+
+---
 ## Project Questions
 
 ### Q1: *Which drug products had the highest total Medicaid spending from 2022 to 2024?*
@@ -92,15 +101,6 @@ This data enables:
 
 ---
 
-## Data Preparation
-
-To answer these questions, we performed the following data manipulations:
-- Combined data across all four quarters for 2022, 2023, and 2024  
-- Grouped and aggregated total reimbursement by NDC and state  
-- Created calculated fields for spending trends and growth rates  
-- Filtered for top N drugs per state and by total national spend  
-
----
 
 ## Visualizations & Findings
 
