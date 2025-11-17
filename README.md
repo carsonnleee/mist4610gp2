@@ -1,6 +1,7 @@
 # mist4610gp2
 # Medicaid: Program Overview and State Drug Utilization Trends  
-**MIST 4610 - Data Management & Analytics**  
+**MIST 4610 - GROUP PROJECT 2**  
+### Group Name: 15058_Group5
 November 21  
 Group Members: Hana Darley, Carson Sams, Mahith Madasu
 - Carson Sams – [@carsonnleee](https://github.com/carsonnleee)  
