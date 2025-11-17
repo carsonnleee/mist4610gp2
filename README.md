@@ -2,7 +2,10 @@
 # Medicaid: Program Overview and State Drug Utilization Trends  
 **MIST 4610 - Data Management & Analytics**  
 November 21  
-Group Members: Hana Darley, Carson Sams, Mahith Madasu  
+Group Members: Hana Darley, Carson Sams, Mahith Madasu
+- Carson Sams – [@carsonnleee](https://github.com/carsonnleee)  
+- Hana Darley – [@hanaldarley](https://github.com/hanaldarley)  
+- Mahith Madasu – [@mahithm1](https://github.com/mahithm1)
 
 ---
 
