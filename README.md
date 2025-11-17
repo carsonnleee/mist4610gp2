@@ -78,10 +78,8 @@ This data enables:
 
 To answer these questions, we performed the following data manipulations:
 - Combined data across all four quarters for 2022, 2023, and 2024  
-- Grouped and aggregated total reimbursement by NDC and state  
-- Created calculated fields for spending trends and growth rates  
-- Filtered for top N drugs per state and by total national spend  
-
+- Links to the 2022 and 2023 dataset can be found here:
+- 
 
 ---
 ## Project Questions
