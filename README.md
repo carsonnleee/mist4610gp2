@@ -106,9 +106,10 @@ To answer these questions, we performed the following data manipulations:
 ## Visualizations & Findings
 
 ### Visualization 1 – Top-Spending Drugs  
-<img width="644" height="346" alt="Screenshot 2025-11-18 at 3 22 44 PM" src="https://github.com/user-attachments/assets/0e7fc095-ada6-446e-9441-12d10867bba6" />
+<img width="775" height="363" alt="Screenshot 2025-11-19 at 1 03 21 PM" src="https://github.com/user-attachments/assets/9fd311d7-7d6a-48c4-9ca8-0d29d43156b6" />
 <img width="1150" height="695" alt="Screenshot 2025-11-18 at 4 56 53 PM" src="https://github.com/user-attachments/assets/8ee239a1-23a9-4c6b-994a-6b5022f68a40" />
 <img width="1095" height="719" alt="Screenshot 2025-11-18 at 8 09 42 PM" src="https://github.com/user-attachments/assets/8b70671a-582e-4893-97d4-4cd1e6ef1def" />
+<img width="180" height="171" alt="Screenshot 2025-11-19 at 1 04 07 PM" src="https://github.com/user-attachments/assets/b9c93cfe-c742-44f8-86af-68bf1cf9ed81" />
 
 - Fluticasone and Albuterol consistently drive some of the highest Medicaid spending, reflecting the widespread need for chronic respiratory care (asthma, allergies) across the population. Their continued dominance in spending highlights sustained public health demand and the importance of access to essential respiratory medications.
 
