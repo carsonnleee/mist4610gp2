@@ -84,7 +84,7 @@ To answer these questions, we performed the following data manipulations:
 ---
 ## Project Questions
 
-### Q1: *Which drug products had the highest total Medicaid spending from 2022 to 2024?*
+### Q1: *Which drug products contributed the most to total Medicaid spending from 2022–2024, and how was this spending distributed across states?*
 
 #### Why this matters:
 - **Economic Impact:** High-cost drugs strain budgets  
@@ -106,10 +106,15 @@ To answer these questions, we performed the following data manipulations:
 ## Visualizations & Findings
 
 ### Visualization 1 – Top-Spending Drugs  
-[Insert Tableau Screenshot or Link]  
-- Drug X had the highest spending nationally in 2024  
-- Chronic condition drugs dominate the top 10 list  
-- Spending is concentrated in a small number of high-cost products  
+<img width="644" height="346" alt="Screenshot 2025-11-18 at 3 22 44 PM" src="https://github.com/user-attachments/assets/0e7fc095-ada6-446e-9441-12d10867bba6" />
+<img width="1150" height="695" alt="Screenshot 2025-11-18 at 4 56 53 PM" src="https://github.com/user-attachments/assets/8ee239a1-23a9-4c6b-994a-6b5022f68a40" />
+<img width="1095" height="719" alt="Screenshot 2025-11-18 at 8 09 42 PM" src="https://github.com/user-attachments/assets/8b70671a-582e-4893-97d4-4cd1e6ef1def" />
+
+- Fluticasone and Albuterol consistently drive some of the highest Medicaid spending, reflecting the widespread need for chronic respiratory care (asthma, allergies) across the population. Their continued dominance in spending highlights sustained public health demand and the importance of access to essential respiratory medications.
+
+- Fluticasone shows a sharp increase in spending in 2024, suggesting changes in prescribing behavior, pricing adjustments, or shifting population health needs related to cholesterol management. This rise indicates an emerging trend that may warrant deeper examination in future analyses.
+
+- State-level variation in Medicaid drug spending reveals significant geographic disparities. Large states such as California account for a disproportionate share of total reimbursement, emphasizing how population size, Medicaid enrollment, and regional health patterns shape financial pressures within the program.
 
 ### Visualization 2 – Trend by State  
 [Insert Tableau Screenshot or Link]  
