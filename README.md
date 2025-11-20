@@ -112,7 +112,7 @@ To answer our research questions, we applied the following data manipulations:
 
 ## Visualizations & Findings
 
-### Visualization 1 – Top-Spending Drugs  
+### Question One
 <img width="775" height="363" alt="Screenshot 2025-11-19 at 1 03 21 PM" src="https://github.com/user-attachments/assets/9fd311d7-7d6a-48c4-9ca8-0d29d43156b6" />
 <img width="1150" height="695" alt="Screenshot 2025-11-18 at 4 56 53 PM" src="https://github.com/user-attachments/assets/8ee239a1-23a9-4c6b-994a-6b5022f68a40" />
 <img width="1095" height="719" alt="Screenshot 2025-11-18 at 8 09 42 PM" src="https://github.com/user-attachments/assets/8b70671a-582e-4893-97d4-4cd1e6ef1def" />
@@ -124,8 +124,9 @@ To answer our research questions, we applied the following data manipulations:
 
 - State-level variation in Medicaid drug spending reveals significant geographic disparities. Large states such as California account for a disproportionate share of total reimbursement, emphasizing how population size, Medicaid enrollment, and regional health patterns shape financial pressures within the program.
 
-### Visualization 2 – Trend by State  
-[Insert Tableau Screenshot or Link]  
+### Question 2 
+<img width="570" height="374" alt="Screenshot 2025-11-20 at 2 48 33 PM" src="https://github.com/user-attachments/assets/4d6c691f-3dda-42e4-9f3d-8f59c2d109bc" />
+<img width="657" height="308" alt="Screenshot 2025-11-20 at 2 49 36 PM" src="https://github.com/user-attachments/assets/bbee0730-328d-4ca6-af6f-48204daaedff" />
 - There is a **very weak correlation** between the number of prescriptions and total Medicaid spending (R² ≈ 0.035). This means **high prescription volume does not equal high cost**—most frequently used drugs are **low-cost generics**.  
 - Several drugs appear as **spending outliers**, indicating that price—not volume—is the key driver of Medicaid expenditures.
 - A small number of **specialty drugs** (e.g., Humira, Trikafta, Stelara, Skyrizi) have **extremely high cost per prescription**, often exceeding millions.  
@@ -151,4 +152,66 @@ To answer our research questions, we applied the following data manipulations:
 
 
 ---
+## Drug List Definitions
+
+**ABILIFY MA / ABILIFY**  
+An antipsychotic used to treat conditions like schizophrenia, bipolar disorder, and major depressive disorder.
+
+**ALBUTEROL**  
+A fast-acting inhaler that treats asthma and other breathing problems by opening airways.
+
+**AMOXICILLI (Amoxicillin)**  
+A common antibiotic used to treat bacterial infections such as ear infections, strep throat, and pneumonia.
+
+**ATORVASTAT (Atorvastatin)**  
+A cholesterol-lowering medication used to reduce the risk of heart disease and stroke.
+
+**BIKTARVY**  
+A once-daily combination medication used to treat HIV by suppressing viral replication.
+
+**COSENTYX**  
+A biologic injection used for psoriasis, psoriatic arthritis, and ankylosing spondylitis.
+
+**DUPIXENT**  
+A biologic used to treat eczema, asthma, and chronic sinusitis with nasal polyps.
+
+**ELIQUIS**  
+A blood thinner used to prevent strokes and treat or prevent blood clots.
+
+**FLUTICASONE (FLUTICASON)**  
+A corticosteroid used in inhalers or nasal sprays to treat asthma and allergies.
+
+**HUMIRA PEN / HUMIRA (CF)**  
+A biologic anti-inflammatory drug for autoimmune diseases such as rheumatoid arthritis and Crohn’s disease.
+
+**IBUPROFEN**  
+A common over-the-counter anti-inflammatory drug used for pain, fever, and swelling.
+
+**INVEGA SUSTENNA (INVEGA SUS)**  
+A long-acting injectable antipsychotic used for schizophrenia and schizoaffective disorder.
+
+**JARDIANCE**  
+A diabetes medication that helps lower blood sugar and reduce cardiovascular risk.
+
+**LANTUS 3ML**  
+A long-acting insulin used to manage blood sugar in people with diabetes.
+
+**OZEMPIC 0. / OZEMPIC 1MG**  
+A weekly injectable diabetes medication that helps lower blood sugar and promote weight loss.
+
+**SKYRIZI**  
+A biologic injection used to treat moderate to severe plaque psoriasis and psoriatic arthritis.
+
+**STELARA 90**  
+A biologic used for Crohn’s disease, ulcerative colitis, psoriasis, and psoriatic arthritis.
+
+**TRIKAFTA**  
+A triple-combination therapy used to improve lung function in people with cystic fibrosis.
+
+**TRULICITY**  
+A weekly injectable medication for type 2 diabetes that improves blood sugar control.
+
+**VRAYLAR**  
+An atypical antipsychotic used for bipolar disorder, schizophrenia, and depression augmentation.
+
 
