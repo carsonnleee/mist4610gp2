@@ -54,7 +54,7 @@ This data enables:
 - Cost and utilization trend analysis  
 - State-to-state comparisons  
 - Public health and policy insights  
-- Identification of high-cost drugs and categories
+- Identification of high-cost drugs and categories  
 
 ---
 
@@ -74,12 +74,17 @@ This data enables:
 - Year + Quarter  
 
 ---
+
 ## Data Preparation
 
-To answer these questions, we performed the following data manipulations:
-- Combined data across all four quarters for 2022, 2023, and 2024  
-- Links to the 2022 and 2023 dataset can be found here:
-- 
+To answer our research questions, we applied the following data manipulations:
+
+- Combined the quarterly 2022, 2023, and 2024 State Drug Utilization tables  
+- Cleaned and formatted fields to ensure consistency  
+- Created a **calculated field** to measure **Cost per Prescription** using: Analysis - create new calculation
+- This metric was crucial in identifying **high-cost outlier drugs** with large spending impact despite low prescription volume.
+
+
 
 ---
 ## Project Questions
@@ -87,18 +92,20 @@ To answer these questions, we performed the following data manipulations:
 ### Q1: *Which drug products contributed the most to total Medicaid spending from 2022–2024, and how was this spending distributed across states?*
 
 #### Why this matters:
-- **Economic Impact:** High-cost drugs strain budgets  
-- **Public Health:** Indicates treatment trends for major conditions  
-- **Data Fit:** Dataset reports reimbursement totals per drug per quarter  
+- **High-volume drugs** reveal widespread public health needs  
+- Helps uncover whether heavy utilization aligns with heavy spending  
+- Identifies core medications relied upon across populations  
 
 ---
 
-### Q2: *How has Medicaid spending trended from 2022 to 2024, and which drug products show the strongest upward or downward trends per state?*
+
+### Q2: *How does prescription volume relate to total Medicaid spending, and to what extent do high-cost specialty drugs drive overall expenditures?*
+
 
 #### Why this matters:
-- **Spending Trends:** Highlights growth areas or successful cost control  
-- **State Variation:** Shows how utilization differs geographically  
-- **Data Fit:** Year, state, NDC, and reimbursement fields support trend analysis  
+- Spending drivers shape Medicaid budgeting and policy  
+- Reveals whether cost is driven by **utilization** or **price intensity**  
+- Identifies the drugs putting the greatest financial strain on Medicaid  
 
 ---
 
@@ -119,10 +126,11 @@ To answer these questions, we performed the following data manipulations:
 
 ### Visualization 2 – Trend by State  
 [Insert Tableau Screenshot or Link]  
-- Drug Y showed sharp increases in multiple states  
-- Some drugs declined in usage due to generic availability or policy  
-- Notable state-level differences in prescribing patterns  
-
+- There is a **very weak correlation** between the number of prescriptions and total Medicaid spending (R² ≈ 0.035). This means **high prescription volume does not equal high cost**—most frequently used drugs are **low-cost generics**.  
+- Several drugs appear as **spending outliers**, indicating that price—not volume—is the key driver of Medicaid expenditures.
+- A small number of **specialty drugs** (e.g., Humira, Trikafta, Stelara, Skyrizi) have **extremely high cost per prescription**, often exceeding millions.  
+- These drugs **drive a disproportionate share of total Medicaid reimbursement**, despite relatively low utilization.  
+- This confirms that **Medicaid spending is driven by price intensity**, not prescription count.
 ---
 
 ## Implications & Takeaways
@@ -136,7 +144,11 @@ To answer these questions, we performed the following data manipulations:
 ---
 
 ## Final Thoughts
-This project connects public policy, health economics, and data analytics. By analyzing Medicaid drug spending, we gain a clearer understanding of the drivers behind one of the U.S.’s largest healthcare programs.
+- This project connects public policy, health economics, and data analytics. By analyzing Medicaid drug spending, we gain a clearer understanding of the drivers behind one of the U.S.’s largest healthcare programs. 
+- High-volume drugs are not the primary drivers of Medicaid spending. Even the most frequently prescribed medications contribute only a small share to total reimbursement, indicating that broad utilization does not equate to high cost
+- Medicaid spending is disproportionately driven by a small group of high-cost specialty drugs. These medications have extremely high cost per prescription often millions, creating a far greater budget impact than widely used generics, despite their lower prescription volume
+- Together, the analyses show that Medicaid expenditures are shaped far more by the cost intensity of specific specialty drugs than by sheer prescription volume. Understanding this imbalance is essential for evaluating budget pressures and guiding policy decisions around drug pricing and access
+
 
 ---
 
