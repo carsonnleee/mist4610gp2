@@ -63,6 +63,7 @@ This data enables:
 **Source:** CMS State Drug Utilization Data (data.medicaid.gov)  
 **Rows:** 5,205,065  
 **Columns:** 15  
+**Columns:** https://data.medicaid.gov/dataset/61729e5a-7aa8-448c-8903-ba3e0cd0ea3c 
 **Key Fields Include:**
 - State  
 - Drug Name  
