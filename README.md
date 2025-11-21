@@ -168,7 +168,7 @@ However, even the highest-spending common medications fall far below the extreme
 
 ### **3. State-Level Medicaid Spending (Choropleth Map + Table)**  
 To add geographic context, we analyzed total Medicaid drug reimbursement by state.  
-**California stands out as the largest spending outlier**, with over **$756 million** reimbursed—dramatically higher than any other state. States such as Florida, Georgia, and Arizona also show high spending totals, largely due to larger Medicaid populations.
+**California stands out as the largest spending outlier**, with over **$41 billion** reimbursed—dramatically higher than any other state. States such as Florida, Georgia, and Arizona also show high spending totals, largely due to larger Medicaid populations.
 
 Smaller states (e.g., Alaska, Delaware, D.C.) have substantially lower spending, which aligns with smaller beneficiary populations and program sizes.
 
