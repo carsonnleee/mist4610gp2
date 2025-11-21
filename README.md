@@ -155,64 +155,82 @@ To answer our research questions, we applied the following data manipulations:
 ---
 ## Drug List Definitions
 
-**ABILIFY MA / ABILIFY**  
-An antipsychotic used to treat conditions like schizophrenia, bipolar disorder, and major depressive disorder.
+## Drug Descriptions
 
 **ALBUTEROL**  
-A fast-acting inhaler that treats asthma and other breathing problems by opening airways.
+A fast-acting inhaler used to open airways during asthma attacks or breathing issues.
 
 **AMOXICILLI (Amoxicillin)**  
-A common antibiotic used to treat bacterial infections such as ear infections, strep throat, and pneumonia.
+A common antibiotic used to treat bacterial infections like strep throat, ear infections, and sinus infections.
 
 **ATORVASTAT (Atorvastatin)**  
-A cholesterol-lowering medication used to reduce the risk of heart disease and stroke.
+A cholesterol-lowering medication that reduces the risk of heart attack and stroke.
 
-**BIKTARVY**  
-A once-daily combination medication used to treat HIV by suppressing viral replication.
-
-**COSENTYX**  
-A biologic injection used for psoriasis, psoriatic arthritis, and ankylosing spondylitis.
-
-**DUPIXENT**  
-A biologic used to treat eczema, asthma, and chronic sinusitis with nasal polyps.
-
-**ELIQUIS**  
-A blood thinner used to prevent strokes and treat or prevent blood clots.
-
-**FLUTICASONE (FLUTICASON)**  
-A corticosteroid used in inhalers or nasal sprays to treat asthma and allergies.
-
-**HUMIRA PEN / HUMIRA (CF)**  
-A biologic anti-inflammatory drug for autoimmune diseases such as rheumatoid arthritis and Crohn’s disease.
+**FLUTICASONE**  
+A steroid used in inhalers and nasal sprays to treat asthma and allergies.
 
 **IBUPROFEN**  
-A common over-the-counter anti-inflammatory drug used for pain, fever, and swelling.
+An over-the-counter anti-inflammatory drug used to treat pain, fever, and swelling.
 
-**INVEGA SUSTENNA (INVEGA SUS)**  
-A long-acting injectable antipsychotic used for schizophrenia and schizoaffective disorder.
+**CABOMETYX**  
+A targeted cancer therapy used to treat kidney cancer, liver cancer, and thyroid cancer.
 
-**JARDIANCE**  
-A diabetes medication that helps lower blood sugar and reduce cardiovascular risk.
+**COSENTYX**  
+A biologic used to treat psoriasis, psoriatic arthritis, and ankylosing spondylitis.
 
-**LANTUS 3ML**  
-A long-acting insulin used to manage blood sugar in people with diabetes.
+**CRYSVITA**  
+A treatment for X-linked hypophosphatemia, a rare genetic bone disorder.
 
-**OZEMPIC 0. / OZEMPIC 1MG**  
-A weekly injectable diabetes medication that helps lower blood sugar and promote weight loss.
+**GAMMAGARD**  
+An immune globulin therapy used for people with immune deficiencies and autoimmune diseases.
 
-**SKYRIZI**  
-A biologic injection used to treat moderate to severe plaque psoriasis and psoriatic arthritis.
+**HEMLIBRA**  
+A preventive treatment for hemophilia A that reduces bleeding episodes.
 
-**STELARA 90**  
-A biologic used for Crohn’s disease, ulcerative colitis, psoriasis, and psoriatic arthritis.
+**HEMLIBRA-**  
+Another dosing form of Hemlibra, used to prevent bleeding in hemophilia A patients.
+
+**HUMIRA PEN**  
+A biologic that treats autoimmune diseases such as rheumatoid arthritis, Crohn’s disease, and psoriasis.
+
+**HUMIRA(CF)**  
+The citrate-free version of Humira used for autoimmune inflammatory conditions.
+
+**INVEGA TRI (Invega Trinza)**  
+A long-acting injectable antipsychotic for schizophrenia.
+
+**JAKAFI**  
+A medication that treats bone marrow disorders like myelofibrosis and polycythemia vera.
+
+**LUPRON DEP**  
+A hormone-suppressing therapy used for prostate cancer, endometriosis, and fibroids.
+
+**NOVOSEVEN**  
+A clotting factor used to control bleeding episodes in patients with hemophilia.
+
+**RAVICTI**  
+A medication that treats urea cycle disorders by removing toxic ammonia from the blood.
+
+**REVLIMID**  
+An oral cancer drug used to treat multiple myeloma and certain blood cancers.
+
+**SPRYCEL**  
+A targeted leukemia medication used to treat chronic myeloid leukemia (CML).
+
+**STELARA**  
+A biologic for Crohn’s disease, ulcerative colitis, psoriasis, and psoriatic arthritis.
+
+**TEPEZZA**  
+A treatment for thyroid eye disease that reduces swelling behind the eyes.
 
 **TRIKAFTA**  
-A triple-combination therapy used to improve lung function in people with cystic fibrosis.
+A triple-therapy drug for cystic fibrosis that improves lung function.
 
-**TRULICITY**  
-A weekly injectable medication for type 2 diabetes that improves blood sugar control.
+**TRIKAFTA (**  
+Another formulation or naming variant of Trikafta for cystic fibrosis.
 
-**VRAYLAR**  
-An atypical antipsychotic used for bipolar disorder, schizophrenia, and depression augmentation.
+**VERZENIO**  
+A targeted breast cancer medication used with hormone therapy.
+
 
 
