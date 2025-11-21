@@ -83,7 +83,7 @@ The CMS State Drug Utilization dataset contains detailed, product-level prescrip
 
 **Why This Dataset Works Well for Our Questions:**  
 The dataset’s combination of **high volume**, **multi-year coverage**, and **rich detail** enables meaningful analysis of both (1) high-level spending patterns and (2) drug-specific behaviors. Its inclusion of prescription counts, reimbursement amounts, and drug identifiers makes it especially well-suited for comparing cost drivers and examining whether spending is influenced more by high volume or high-cost specialty drugs.
-<img width="665" height="576" alt="Screenshot 2025-11-21 at 3 14 17 PM" src="https://github.com/user-attachments/assets/7dfe5dae-44c8-4e5d-bb57-6596e8f9c05a" />
+
 
 ---
 
@@ -133,8 +133,6 @@ This question is tightly connected to our dataset because the Medicaid Drug Util
 ### Question One
 <img width="775" height="363" alt="Screenshot 2025-11-19 at 1 03 21 PM" src="https://github.com/user-attachments/assets/9fd311d7-7d6a-48c4-9ca8-0d29d43156b6" />
 <img width="1150" height="695" alt="Screenshot 2025-11-18 at 4 56 53 PM" src="https://github.com/user-attachments/assets/8ee239a1-23a9-4c6b-994a-6b5022f68a40" />
-<img width="1095" height="719" alt="Screenshot 2025-11-18 at 8 09 42 PM" src="https://github.com/user-attachments/assets/8b70671a-582e-4893-97d4-4cd1e6ef1def" />
-<img width="180" height="171" alt="Screenshot 2025-11-19 at 1 04 07 PM" src="https://github.com/user-attachments/assets/b9c93cfe-c742-44f8-86af-68bf1cf9ed81" />
 <img width="665" height="576" alt="Screenshot 2025-11-21 at 3 14 17 PM" src="https://github.com/user-attachments/assets/7dfe5dae-44c8-4e5d-bb57-6596e8f9c05a" />
 
 
